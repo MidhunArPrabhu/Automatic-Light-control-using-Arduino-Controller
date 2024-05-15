@@ -1,4 +1,4 @@
-# Automatic Light Controller using LDR and Arduino UNO controller.
+# Ex-03 Automatic Light Controller using LDR and Arduino UNO controller.
 
 ##  AIM:
 
